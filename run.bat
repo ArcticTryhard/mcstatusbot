@@ -1,2 +1,2 @@
 node mcbot.js
-pause
+YOUR FOLDER ADRESS HERE

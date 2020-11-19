@@ -1,7 +1,7 @@
 {
-    "token":"YOUR_BOT_TOKEN_HERE",
+    "token":"NzA1NzA0MTU0NjQzMDM4Mjc4.XqvkNQ.GYE8jHybb-85ELC8kX5xFfpncks",
     "commandPrefix":"/",
-    "ip":"YOUR_SERVER_IP_HERE",
+    "ip":"gommehd.net",
     "port":25565,
     "pingInterval":"30",
     "embedColor":"7289DA"
